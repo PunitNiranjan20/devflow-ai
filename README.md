@@ -4,7 +4,7 @@ A premium responsive landing page for DevFlow AI — an intelligent workspace de
 
 ## Live Demo
 
-Add the deployed Vercel URL here.
+https://devflow-pz5zwksyo-puneetpatel181-9094s-projects.vercel.app/
 
 ## Features
 
@@ -32,4 +32,4 @@ Add the deployed Vercel URL here.
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/PunitNiranjan20/devflow-ai
